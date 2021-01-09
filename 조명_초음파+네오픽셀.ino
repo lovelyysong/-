@@ -46,4 +46,4 @@ void loop() {
   delay(200);
 }
 
-// strip.begin()이랑 strip.clear이 안먹는 이유가 무엇인가 （；へ：）..
+// strip.begin()이랑 strip.clear이 안먹는 이유가 무엇인가 （；へ：）...
